@@ -70,3 +70,8 @@ git push
 ```
 git pull
 ```
+
+# How to run svm_pancreatic_cancer_SVM
+
+## 1) Head to files folder and run script: py svm_pancreatic_cancer.py
+## 2) Use this data file C:\Users\joeya\Documents\pancreatic_cancer_SVM\Data\machine_learning_data_template_ca125 serum.csv
