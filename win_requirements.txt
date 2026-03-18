@@ -67,3 +67,5 @@ tensorflow
 statsmodels
 graphviz
 ipykernel==6.29.5 
+sdv==1.28.0
+ctgan==0.11.0
