@@ -20,7 +20,7 @@ def configure_csv(file_path):
     for f in features:
         print(f'({counter}) {f}')
         counter += 1
-    
+
     feature_input = input("Which features would you like to use? Input this information separated by spaces in numerical order, like '0 1 2 3' : ")
     input_array = feature_input.split(" ").strip()
 
@@ -39,25 +39,10 @@ csv_file_path = input("Please provide the path of the dataset, or CSV file: ")
 
 # Load dataset
 df = pd.read_csv(csv_file_path)
+print("Original rows:", len(df))
 
-# CLEANING: Extract float from 'Type' if present
-cols_list = df.columns.tolist()
-
-if 'Type' in df.columns:
-    df['Type_float (ng/ml)'] = df['Type'].str.extract(r'(\d+\.?\d*)').astype(float)
-    print("\nExtracted numeric values from 'Type' into new column 'Type_float (ng/ml)'")
-
-# Drop 'Type_float (ng/ml)' from numeric columns if it exists (because we're grouping by it)
-numeric_cols = [col for col in df.select_dtypes(include=['number']).columns if col != 'Type_float (ng/ml)']
-
-df = df.groupby("Type_float (ng/ml)").agg({
-    "Rsol": "mean",
-    "Rp": "mean",
-    "CPE": "mean",
-    "CV_Area": "mean",
-    "Delta_Z": "mean",
-    "Class_Multimodal": lambda x: x.mode().iloc[0]  # Take the most common class
-}).reset_index()
+# Clean labels
+df["Class_Multimodal"] = df["Class_Multimodal"].astype(str).str.strip()
 
 print("number of rows in the dataset: ", len(df))
 

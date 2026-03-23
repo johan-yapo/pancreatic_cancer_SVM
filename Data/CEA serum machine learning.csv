@@ -1,0 +1,71 @@
+Type,Class_Multimodal,CPE,Rp,Impedance,Class_Binary,rsol
+control,Normal,0.00E+00,1.44E+06,1558,Benign,45.78
+control,Normal,0.00E+00,1.42E+06,1570,Benign,48.68
+CEA-5pg,Normal,1.89E+00,1.35E+06,1583,Benign,51.38
+CEA-5pg,Normal,0.10400416,1.26E+06,1533,Benign,41.08
+CEA-10pg,Normal,4.81E-01,1.33E+06,1583,Benign,51.23
+CEA-10pg,Normal,0.936037441,1.57E+06,1595,Benign,42.81
+CEA-2ng,Low Risk,3.58E+00,1.19E+06,1595,Benign,47.48
+CEA-2ng,Low Risk,3.28E+00,1.23E+06,1583,Benign,39.35
+CEA-4ng,Low Risk,4.76E+00,1.00E+06,1621,Benign,45.64
+CEA-4ng,Low Risk,3.69E+00,1.29E+06,1583,Benign,46.7
+CEA-7.5ng,High Risk,3.69E+00,9.04E+05,1658,Malignant,43.1
+CEA-7.5ng,High Risk,7.189287572,1.22E+06,1608,Malignant,42.84
+CEA-25ng,High Risk,5.40E+00,9.04E+05,1658,Malignant,39.19
+CEA-25ng,High Risk,4.576183047,1.01E+06,1646,Malignant,36.13
+control,Normal,0.00E+00,1.44E+06,1558,Benign,45.78
+control,Normal,0.00E+00,1.42E+06,1570,Benign,48.68
+CEA-5pg,Normal,1.89E+00,1.35E+06,1583,Benign,51.38
+CEA-5pg,Normal,0.10400416,1.26E+06,1533,Benign,41.08
+CEA-10pg,Normal,4.81E-01,1.33E+06,1583,Benign,51.23
+CEA-10pg,Normal,0.936037441,1.57E+06,1595,Benign,42.81
+CEA-2ng,Low Risk,3.58E+00,1.19E+06,1595,Benign,47.48
+CEA-2ng,Low Risk,3.28E+00,1.23E+06,1583,Benign,39.35
+CEA-4ng,Low Risk,4.76E+00,1.00E+06,1621,Benign,45.64
+CEA-4ng,Low Risk,3.69E+00,1.29E+06,1583,Benign,46.7
+CEA-7.5ng,High Risk,3.69E+00,9.04E+05,1658,Malignant,43.1
+CEA-7.5ng,High Risk,7.189287572,1.22E+06,1608,Malignant,42.84
+CEA-25ng,High Risk,5.40E+00,9.04E+05,1658,Malignant,39.19
+CEA-25ng,High Risk,4.576183047,1.01E+06,1646,Malignant,36.13
+control,Normal,0.00E+00,1.44E+06,1558,Benign,45.78
+control,Normal,0.00E+00,1.42E+06,1570,Benign,48.68
+CEA-5pg,Normal,1.89E+00,1.35E+06,1583,Benign,51.38
+CEA-5pg,Normal,0.10400416,1.26E+06,1533,Benign,41.08
+CEA-10pg,Normal,4.81E-01,1.33E+06,1583,Benign,51.23
+CEA-10pg,Normal,0.936037441,1.57E+06,1595,Benign,42.81
+CEA-2ng,Low Risk,3.58E+00,1.19E+06,1595,Benign,47.48
+CEA-2ng,Low Risk,3.28E+00,1.23E+06,1583,Benign,39.35
+CEA-4ng,Low Risk,4.76E+00,1.00E+06,1621,Benign,45.64
+CEA-4ng,Low Risk,3.69E+00,1.29E+06,1583,Benign,46.7
+CEA-7.5ng,High Risk,3.69E+00,9.04E+05,1658,Malignant,43.1
+CEA-7.5ng,High Risk,7.189287572,1.22E+06,1608,Malignant,42.84
+CEA-25ng,High Risk,5.40E+00,9.04E+05,1658,Malignant,39.19
+CEA-25ng,High Risk,4.576183047,1.01E+06,1646,Malignant,36.13
+control,Normal,0.00E+00,1.44E+06,1558,Benign,45.78
+control,Normal,0.00E+00,1.42E+06,1570,Benign,48.68
+CEA-5pg,Normal,1.89E+00,1.35E+06,1583,Benign,51.38
+CEA-5pg,Normal,0.10400416,1.26E+06,1533,Benign,41.08
+CEA-10pg,Normal,4.81E-01,1.33E+06,1583,Benign,51.23
+CEA-10pg,Normal,0.936037441,1.57E+06,1595,Benign,42.81
+CEA-2ng,Low Risk,3.58E+00,1.19E+06,1595,Benign,47.48
+CEA-2ng,Low Risk,3.28E+00,1.23E+06,1583,Benign,39.35
+CEA-4ng,Low Risk,4.76E+00,1.00E+06,1621,Benign,45.64
+CEA-4ng,Low Risk,3.69E+00,1.29E+06,1583,Benign,46.7
+CEA-7.5ng,High Risk,3.69E+00,9.04E+05,1658,Malignant,43.1
+CEA-7.5ng,High Risk,7.189287572,1.22E+06,1608,Malignant,42.84
+CEA-25ng,High Risk,5.40E+00,9.04E+05,1658,Malignant,39.19
+CEA-25ng,High Risk,4.576183047,1.01E+06,1646,Malignant,36.13
+control,Normal,0.00E+00,1.44E+06,1558,Benign,45.78
+control,Normal,0.00E+00,1.42E+06,1570,Benign,48.68
+CEA-5pg,Normal,1.89E+00,1.35E+06,1583,Benign,51.38
+CEA-5pg,Normal,0.10400416,1.26E+06,1533,Benign,41.08
+CEA-10pg,Normal,4.81E-01,1.33E+06,1583,Benign,51.23
+CEA-10pg,Normal,0.936037441,1.57E+06,1595,Benign,42.81
+CEA-2ng,Low Risk,3.58E+00,1.19E+06,1595,Benign,47.48
+CEA-2ng,Low Risk,3.28E+00,1.23E+06,1583,Benign,39.35
+CEA-4ng,Low Risk,4.76E+00,1.00E+06,1621,Benign,45.64
+CEA-4ng,Low Risk,3.69E+00,1.29E+06,1583,Benign,46.7
+CEA-7.5ng,High Risk,3.69E+00,9.04E+05,1658,Malignant,43.1
+CEA-7.5ng,High Risk,7.189287572,1.22E+06,1608,Malignant,42.84
+CEA-25ng,High Risk,5.40E+00,9.04E+05,1658,Malignant,39.19
+CEA-25ng,High Risk,4.576183047,1.01E+06,1646,Malignant,36.13

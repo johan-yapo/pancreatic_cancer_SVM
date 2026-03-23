@@ -1,0 +1,71 @@
+Type,Class_Multimodal,CPE,Rp,Impedance,Class_Binary
+control,Normal,8.26E-06,8.54E+05,12553.8,Benign
+control,Normal,7.00E-06,8.64E+05,12553.8,Benign
+CA242-50pg,Normal,7.24E-06,1.02E+06,1.26E+04,Benign
+CA242-50pg,Normal,7.56E-06,9.11E+05,1.29E+04,Benign
+CA242-100pg,Normal,7.67E-06,9.93E+05,1.25E+04,Benign
+CA242-100pg,Normal,7.24E-06,7.98E+05,1.26E+04,Benign
+CA242-102030ng,Low Risk,7.68E-06,1.06E+06,1.34E+04,Benign
+CA242-102030ng,Low Risk,7.18E-06,1.29E+06,1.30E+04,Benign
+CA242-102030ng,Low Risk,7.17E-06,1.29E+06,1.31E+04,Benign
+CA242-102030ng,Low Risk,7.25E-06,1.13E+06,1.36E+04,Benign
+CA242-50ng,High Risk,7.45E-06,1.59E+06,1.36E+04,Malignant
+CA242-50ng,High Risk,7.11E-06,1.95E+06,1.41E+04,Malignant
+CA242-1ug,High Risk,7.31E-06,1.42E+06,1.45E+04,Malignant
+CA242-1ug,High Risk,6.67E-06,1.20E+06,1.38E+04,Malignant
+control,Normal,8.26E-06,8.54E+05,12553.8,Benign
+control,Normal,7.00E-06,8.64E+05,12553.8,Benign
+CA242-50pg,Normal,7.24E-06,1.02E+06,1.26E+04,Benign
+CA242-50pg,Normal,7.56E-06,9.11E+05,1.29E+04,Benign
+CA242-100pg,Normal,7.67E-06,9.93E+05,1.25E+04,Benign
+CA242-100pg,Normal,7.24E-06,7.98E+05,1.26E+04,Benign
+CA242-102030ng,Low Risk,7.68E-06,1.06E+06,1.34E+04,Benign
+CA242-102030ng,Low Risk,7.18E-06,1.29E+06,1.30E+04,Benign
+CA242-102030ng,Low Risk,7.17E-06,1.29E+06,1.31E+04,Benign
+CA242-102030ng,Low Risk,7.25E-06,1.13E+06,1.36E+04,Benign
+CA242-50ng,High Risk,7.45E-06,1.59E+06,1.36E+04,Malignant
+CA242-50ng,High Risk,7.11E-06,1.95E+06,1.41E+04,Malignant
+CA242-1ug,High Risk,7.31E-06,1.42E+06,1.45E+04,Malignant
+CA242-1ug,High Risk,6.67E-06,1.20E+06,1.38E+04,Malignant
+control,Normal,8.26E-06,8.54E+05,12553.8,Benign
+control,Normal,7.00E-06,8.64E+05,12553.8,Benign
+CA242-50pg,Normal,7.24E-06,1.02E+06,1.26E+04,Benign
+CA242-50pg,Normal,7.56E-06,9.11E+05,1.29E+04,Benign
+CA242-100pg,Normal,7.67E-06,9.93E+05,1.25E+04,Benign
+CA242-100pg,Normal,7.24E-06,7.98E+05,1.26E+04,Benign
+CA242-102030ng,Low Risk,7.68E-06,1.06E+06,1.34E+04,Benign
+CA242-102030ng,Low Risk,7.18E-06,1.29E+06,1.30E+04,Benign
+CA242-102030ng,Low Risk,7.17E-06,1.29E+06,1.31E+04,Benign
+CA242-102030ng,Low Risk,7.25E-06,1.13E+06,1.36E+04,Benign
+CA242-50ng,High Risk,7.45E-06,1.59E+06,1.36E+04,Malignant
+CA242-50ng,High Risk,7.11E-06,1.95E+06,1.41E+04,Malignant
+CA242-1ug,High Risk,7.31E-06,1.42E+06,1.45E+04,Malignant
+CA242-1ug,High Risk,6.67E-06,1.20E+06,1.38E+04,Malignant
+control,Normal,8.26E-06,8.54E+05,12553.8,Benign
+control,Normal,7.00E-06,8.64E+05,12553.8,Benign
+CA242-50pg,Normal,7.24E-06,1.02E+06,1.26E+04,Benign
+CA242-50pg,Normal,7.56E-06,9.11E+05,1.29E+04,Benign
+CA242-100pg,Normal,7.67E-06,9.93E+05,1.25E+04,Benign
+CA242-100pg,Normal,7.24E-06,7.98E+05,1.26E+04,Benign
+CA242-102030ng,Low Risk,7.68E-06,1.06E+06,1.34E+04,Benign
+CA242-102030ng,Low Risk,7.18E-06,1.29E+06,1.30E+04,Benign
+CA242-102030ng,Low Risk,7.17E-06,1.29E+06,1.31E+04,Benign
+CA242-102030ng,Low Risk,7.25E-06,1.13E+06,1.36E+04,Benign
+CA242-50ng,High Risk,7.45E-06,1.59E+06,1.36E+04,Malignant
+CA242-50ng,High Risk,7.11E-06,1.95E+06,1.41E+04,Malignant
+CA242-1ug,High Risk,7.31E-06,1.42E+06,1.45E+04,Malignant
+CA242-1ug,High Risk,6.67E-06,1.20E+06,1.38E+04,Malignant
+control,Normal,8.26E-06,8.54E+05,12553.8,Benign
+control,Normal,7.00E-06,8.64E+05,12553.8,Benign
+CA242-50pg,Normal,7.24E-06,1.02E+06,1.26E+04,Benign
+CA242-50pg,Normal,7.56E-06,9.11E+05,1.29E+04,Benign
+CA242-100pg,Normal,7.67E-06,9.93E+05,1.25E+04,Benign
+CA242-100pg,Normal,7.24E-06,7.98E+05,1.26E+04,Benign
+CA242-102030ng,Low Risk,7.68E-06,1.06E+06,1.34E+04,Benign
+CA242-102030ng,Low Risk,7.18E-06,1.29E+06,1.30E+04,Benign
+CA242-102030ng,Low Risk,7.17E-06,1.29E+06,1.31E+04,Benign
+CA242-102030ng,Low Risk,7.25E-06,1.13E+06,1.36E+04,Benign
+CA242-50ng,High Risk,7.45E-06,1.59E+06,1.36E+04,Malignant
+CA242-50ng,High Risk,7.11E-06,1.95E+06,1.41E+04,Malignant
+CA242-1ug,High Risk,7.31E-06,1.42E+06,1.45E+04,Malignant
+CA242-1ug,High Risk,6.67E-06,1.20E+06,1.38E+04,Malignant
