@@ -27,7 +27,7 @@ def configure_csv(file_path):
     class_input = input("Which output class would you like to use? ")
     return (input_array, int(class_input))
 
-print("Machine Learning (ML) Model for Breast Cancer:")
+print("Machine Learning (ML) Model for Pancreatic Cancer:")
 print("ML has three main parts: training, testing, and validation.")
 print("Inputs: CSV File Path, Features (or variables used to train the model)")
 print("Outputs: Confusion Matrix (shows the accuracy of the model)")
@@ -193,5 +193,4 @@ plt.xlabel("Permutation importance (mean decrease in score)")
 plt.title("Feature Importances Across Permutations (Violin + 95% CI)")
 plt.tight_layout()
 plt.show()
-
 
