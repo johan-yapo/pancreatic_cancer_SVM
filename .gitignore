@@ -2,4 +2,4 @@ env/
 *.png
 output
 !Models/outputs/*
-!Data/*
+Data/
