@@ -1,0 +1,13 @@
+Rsol,Rp,CPE,CV_Area,Delta_Z,Type,Class_Multimodal
+41.73,9.71E+05,7.83E-06,189.50,2807.327195,Control- Human sample,
+36.52,9.12E+05,7.70E-06,240.50,2838.743122,Control- Human sample,
+41.58,1.43E+06,8.06E-06,191.70,2767.114809,Control- Human sample,
+44.35,4.95E+04,1.18E-05,210.1,1853.539666,Diseased- Human Sample,
+33.53,2.66E+05,7.52E-06,242.5,2949.327183,Diseased- Human Sample,
+30.52,1.36E+06,7.50E-06,183.8,2901.574975,Diseased- Human Sample,
+45.4,2.13E+05,8.19E-06,407.9,2784.707728,Control- Cell supernatant,
+54.06,1.83E+03,2.36E-05,1179,219.785822,Control- Cell supernatant,
+37.21,3.90E+05,7.71E-06,654.1,2935.504176,Control- Cell supernatant,
+43.91,3.31E+05,8.13E-06,524.7,2892.778515,Treated- Cell supernatant,
+28.01,4.97E+03,9.46E-06,933.2,573.5291548,Treated- Cell supernatant,
+51.71,1.06E+06,7.53E-06,445.8,3042.318326,Treated- Cell supernatant,
