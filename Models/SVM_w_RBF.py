@@ -289,7 +289,6 @@ if use_new_data == 'y':
     X_new = df_new[feature_names].values
     X_new_scaled = scaler.transform(X_new)
 
-
     # -------------------------------
     # PREDICT
     # -------------------------------
@@ -307,21 +306,23 @@ if use_new_data == 'y':
     # -------------------------------
     # SAVE OUTPUT
     # -------------------------------
-output_path = input("\nEnter output file path (e.g., results.csv): ").strip()
+    output_path = input("\nEnter output file path (e.g., results.csv): ").strip()
 
-# Ensure .csv extension
-if not output_path.lower().endswith(".csv"):
-    output_path += ".csv"
+    # Ensure .csv extension
+    if not output_path.lower().endswith(".csv"):
+        output_path += ".csv"
 
-# Optional: prevent overwrite
-import os
-if os.path.exists(output_path):
-    overwrite = input("File exists. Overwrite? (y/n): ").lower()
-    if overwrite != 'y':
-        print("❌ Save cancelled.")
+    # Optional: prevent overwrite
+    import os
+    if os.path.exists(output_path):
+        overwrite = input("File exists. Overwrite? (y/n): ").lower()
+        if overwrite != 'y':
+            print("❌ Save cancelled.")
+        else:
+            df_new.to_csv(output_path, index=False)
+            print(f"\n✅ Predictions saved to: {output_path}")
     else:
         df_new.to_csv(output_path, index=False)
         print(f"\n✅ Predictions saved to: {output_path}")
 else:
-    df_new.to_csv(output_path, index=False)
-    print(f"\n✅ Predictions saved to: {output_path}")
+    print("No new dataset loaded. Process complete.")
